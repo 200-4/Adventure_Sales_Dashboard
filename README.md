@@ -24,12 +24,26 @@ analysis among others
 The dashboards provide a detailed analysis of the above mentioned on specific period,year and date 
 
 ## Findings
-- The company had a `2.68 K` transactions
-- A total revenue of `69.48 M` across all the years
-- Total cost of goods that summed up to `41.31M`
-- Order Quantity of Goods that summed up to `28.41K`
-- Also received a profit of `28.18 M` across 4 years
-- Amongst the `606` products the company managed to sell `56` products and unsold `550` products
+- The company had a `60.40 K` transactions
+- A total revenue of `307.09 M` across all the years
+- Total cost of goods that summed up to `180.80 M`
+- Order Quantity of Goods that summed up to `631.92K`
+- Also received a profit of `126.2 M` across 4 years
+- Amongst the `606` products the company managed to sell `158` products and unsold `448` products
+
+## Profit Breakdown Analysis
+
+#### Products
+I carried out an analysis of the Top-5 five products.These included all the 5 categories of Road-150 Red led by Road-150 Red 48,
+Road-150 Red 52, Road-150 Red 62, Road-150 Red 56, and Road-150 Red 44 as the Fifth.The Top-5 products contributed a profit percentage
+`24.8%` compared to others that had `75.2%`
+
+#### Customers
+The company had a total number of  `18,484` customers with an average age of 46 years and slighlty equal profit by gender with a percentage of `50.4%` being male and `49.6%` females
+Also notice that people above 50 years contributed a bigger percentage of profit of `63.1%` compared to those below 50
+The top 5 customers had a `0.3%` profit contribution compared to others customers that contributed up to `99.7%` 
+
+
 
 
 

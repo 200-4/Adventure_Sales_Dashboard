@@ -24,13 +24,13 @@ analysis among others
 The dashboards provide a detailed analysis of the above mentioned on specific period,year and date 
 
 ## Findings
-- The company had a 2.68 K transactions
-- A total revenue of 69.48 M across all the years
-- Total cost of goods that summed up to 41.31M
+- The company had a `2.68 K` transactions
+- A total revenue of `69.48 M` across all the years
+- Total cost of goods that summed up to `41.31M`
 - Order Quantity of Goods that summed up to `28.41K`
-- Also received a profit of 28.18 M across 4 years
-- Amongst the 606 products the company managed to sell 56 products and unsold 550 products
-- 
+- Also received a profit of `28.18 M` across 4 years
+- Amongst the `606` products the company managed to sell `56` products and unsold `550` products
+
 
 
 

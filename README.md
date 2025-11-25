@@ -38,6 +38,7 @@ The dashboards provide a detailed analysis of the above mentioned on specific pe
 I carried out an analysis of the Top-5 five products.These included all the 5 categories of Road-150 Red led by Road-150 Red 48,
 Road-150 Red 52, Road-150 Red 62, Road-150 Red 56, and Road-150 Red 44 as the Fifth.The Top-5 products contributed a profit percentage
 `**24.8%**` compared to others that had `**75.2%**`
+I also noticed there are certain product colors contributing more profit than others.Black led by contributing `**39.16 M**`, followes by  Red with `**31.59 M**`, and thirdly Silver with `**23.92 M**` profits.These are visually representd as the top 3 colors by profit
 
 
 #### Customers
@@ -45,7 +46,7 @@ The company had a total number of  `**18,484**` customers with an average age of
 Also notice that people above 50 years contributed a bigger percentage of profit of `**63.1%**` compared to those below 50
 The top 5 customers had a `**0.3%**` profit contribution compared to others customers that contributed up to `**99.7%**` 
 Below is a screenshot of the profit analysis breakdown
-![Profit Analysis]()
+![Profit Analysis](img/profit_breakdown.PNG)
 
 
 

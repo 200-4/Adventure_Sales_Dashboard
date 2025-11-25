@@ -8,5 +8,7 @@ The dataset includes several sheets
   - This sheet contains transactional information such as order date, Order Id,Sales Amount,Total Product Cost
 - DimProd
   - This sheet contains information about the product such as ProductKey,ProductAlternateKey,ProductSubcategoryKey
+- DimSalesTerritory
+  - 
 
  

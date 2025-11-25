@@ -1,6 +1,6 @@
 # Adventure_Sales_Dashboard
 This analysis is performed on a public dataset that holds the transaction information of particular company
-![Dashboard](img/adventure_.png)
+![Dashboard](img/adventure_.PNG)
 
 ## About the Dataset
 The dataset includes several sheets

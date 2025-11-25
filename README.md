@@ -1,4 +1,4 @@
-# Adventure_Sales_Dashboard
+`#0969da`# Adventure_Sales_Dashboard
 This analysis is performed on a public dataset that holds the transaction information of particular company
 ![Dashboard](img/adventure_.PNG)
 
